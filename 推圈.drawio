@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T06:41:25.697Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="1IGvpTSPaMA4xfS2c1Vh" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T06:49:10.846Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="SuI_oN4LHsT0w4Humb6G" version="12.1.4" type="github" pages="1">
   <diagram id="GFUo5UajbfeOs9jclDTA" name="第 1 页">
     <mxGraphModel dx="896" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -262,6 +262,12 @@
             <mxPoint x="1254.5" y="238" as="sourcePoint"/>
             <mxPoint x="1254.5" y="182" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vOFkEOIqGuXK2a5z3ndq-74" value="服务者：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="786" y="283" width="62" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="vOFkEOIqGuXK2a5z3ndq-75" value="业务者：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="786" y="118" width="62" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
