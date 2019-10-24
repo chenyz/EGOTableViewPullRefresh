@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-24T07:08:06.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="9X4mBhqUBLe7xtoc7a0c" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T07:19:15.531Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="33MruMFRTWJxlQfUJtnz" version="12.1.4" type="github" pages="1">
   <diagram id="GFUo5UajbfeOs9jclDTA" name="第 1 页">
-    <mxGraphModel dx="1136" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -177,11 +177,11 @@
         <mxCell id="vOFkEOIqGuXK2a5z3ndq-47" value="12月重构和中台并行，不影响新功能叠加" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="206" y="445" width="248" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="vOFkEOIqGuXK2a5z3ndq-48" value="1月重构逐步取代中台线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="198" y="474" width="172" height="20" as="geometry"/>
+        <mxCell id="vOFkEOIqGuXK2a5z3ndq-48" value="1月重构逐步取代合并中台线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="474" width="172" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="vOFkEOIqGuXK2a5z3ndq-49" value="2月完成全部取代，不分割业务线和中台线，中台以模块服务的方式提供业务开发服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="503" width="476" height="20" as="geometry"/>
+        <mxCell id="vOFkEOIqGuXK2a5z3ndq-49" value="2月完成全部取代，不分割业务线和中台线，中台以模块化方式给业务开发提供服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="202" y="502" width="476" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="vOFkEOIqGuXK2a5z3ndq-50" value="" style="rounded=0;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -197,7 +197,7 @@
         <mxCell id="vOFkEOIqGuXK2a5z3ndq-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;align=center;" edge="1" parent="1" source="vOFkEOIqGuXK2a5z3ndq-52" target="vOFkEOIqGuXK2a5z3ndq-71">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="vOFkEOIqGuXK2a5z3ndq-52" value="团爆品 web" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="vOFkEOIqGuXK2a5z3ndq-52" value="团爆品 / 团战报 / web ..." style="rounded=1;whiteSpace=wrap;html=1;shadow=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="1198" y="98" width="114" height="56" as="geometry"/>
         </mxCell>
         <mxCell id="vOFkEOIqGuXK2a5z3ndq-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;align=center;comic=1;" edge="1" parent="1" source="vOFkEOIqGuXK2a5z3ndq-53" target="vOFkEOIqGuXK2a5z3ndq-59">
@@ -263,10 +263,10 @@
             <mxPoint x="1254.5" y="182" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vOFkEOIqGuXK2a5z3ndq-74" value="服务者：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="vOFkEOIqGuXK2a5z3ndq-74" value="服务者：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="786" y="283" width="62" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="vOFkEOIqGuXK2a5z3ndq-75" value="业务者：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="vOFkEOIqGuXK2a5z3ndq-75" value="业务者：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="786" y="118" width="62" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="vOFkEOIqGuXK2a5z3ndq-76" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;strokeWidth=2;fontSize=14;align=center;endWidth=25;endSize=10;width=38;" edge="1" parent="1">
