@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-06T14:05:16.747Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="4sGBvh0-5WSOxaSfJN5h" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T15:43:30.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="hm1jx1FK_grB7jzv1hUZ" version="12.4.8" type="github">
   <diagram id="pLV6onTq9MskJ5aBiYJS" name="第 1 页">
-    <mxGraphModel dx="1554" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="1243" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -51,15 +51,6 @@
         <mxCell id="ddoem9WI20h3io4MgGZ3-17" value="&lt;font style=&quot;font-size: 20px&quot;&gt;4.28&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1035" y="281" width="100" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="ddoem9WI20h3io4MgGZ3-19" value="云&lt;br&gt;直&lt;br&gt;播" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="439" width="41" height="92" as="geometry"/>
-        </mxCell>
-        <mxCell id="ddoem9WI20h3io4MgGZ3-20" value="直&lt;br&gt;播&lt;br&gt;分&lt;br&gt;发" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="425.5" y="439" width="41" height="92" as="geometry"/>
-        </mxCell>
-        <mxCell id="ddoem9WI20h3io4MgGZ3-21" value="直&lt;br&gt;播&lt;br&gt;分&lt;br&gt;发" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="492" y="439" width="41" height="92" as="geometry"/>
-        </mxCell>
         <mxCell id="ddoem9WI20h3io4MgGZ3-22" value="&lt;font style=&quot;font-size: 15px&quot;&gt;系统完成度&lt;/font&gt;" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="396" y="771" width="120" height="60" as="geometry"/>
         </mxCell>
@@ -88,7 +79,7 @@
           <mxGeometry x="803.5" y="539" width="41" height="92" as="geometry"/>
         </mxCell>
         <mxCell id="ddoem9WI20h3io4MgGZ3-31" value="工&lt;br&gt;具" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="851.5" y="539" width="41" height="92" as="geometry"/>
+          <mxGeometry x="899.5" y="539" width="41" height="92" as="geometry"/>
         </mxCell>
         <mxCell id="ddoem9WI20h3io4MgGZ3-32" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=2;width=16;endSize=4.33;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -119,6 +110,45 @@
             <mxPoint x="1084.5" y="426" as="sourcePoint"/>
             <mxPoint x="1084.5" y="397" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-42" value="人&lt;br&gt;货&lt;br&gt;推&lt;br&gt;荐&lt;br&gt;系&lt;br&gt;统" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="851.5" y="539" width="41" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-43" value="云&lt;br&gt;直&lt;br&gt;播" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="426" width="41" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-44" value="视&lt;br&gt;频&lt;br&gt;推&lt;br&gt;流&lt;br&gt;拉&lt;br&gt;流" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="425.5" y="426" width="41" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-45" value="视&lt;br&gt;频&lt;br&gt;带&lt;br&gt;货" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="473.5" y="426" width="41" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-46" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=2;width=16;endSize=4.33;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445.5" y="416" as="sourcePoint"/>
+            <mxPoint x="445.5" y="387" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-47" value="接&lt;br&gt;龙&lt;br&gt;系&lt;br&gt;统" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590.5" y="426" width="41" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-48" value="门&lt;br&gt;店&lt;br&gt;系&lt;br&gt;统" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="638.5" y="426" width="41" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-49" value="订&lt;br&gt;单&lt;br&gt;物&lt;br&gt;流&lt;br&gt;模&lt;br&gt;块" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="686.5" y="426" width="41" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-50" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=2;width=16;endSize=4.33;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="658.5" y="416" as="sourcePoint"/>
+            <mxPoint x="658.5" y="387" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-51" value="可&lt;br&gt;配&lt;br&gt;分&lt;br&gt;佣&lt;br&gt;模&lt;br&gt;块" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590.5" y="534" width="41" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="ddoem9WI20h3io4MgGZ3-52" value="商&lt;br&gt;品&lt;br&gt;上&lt;br&gt;架&lt;br&gt;模&lt;br&gt;块" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="638.5" y="534" width="41" height="92" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
