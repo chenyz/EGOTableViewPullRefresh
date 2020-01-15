@@ -1,1 +1,94 @@
-<mxfile host="www.draw.io" modified="2020-01-15T09:17:31.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.5.3" etag="5t4DiOAwpofJU0INYLqI" type="github"><diagram id="8-p4oJEToab8rMm39uDm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-15T10:07:33.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Cnc7e4iwB63JpwjW4f3p" version="12.5.3" type="github">
+  <diagram id="8-p4oJEToab8rMm39uDm" name="第 1 页">
+    <mxGraphModel dx="1554" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-1" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="421" y="278" width="76" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;精华露&lt;br&gt;有品质的&lt;br&gt;尾货&lt;br&gt;折扣&lt;br&gt;化妆品&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="502" y="305.5" width="75" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="715" y="278" width="76" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;美白&lt;br&gt;有品质的&lt;br&gt;换季&lt;br&gt;折扣&lt;br&gt;化妆品&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="796" y="305.5" width="75" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-8" value="团长" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="439" y="101" width="40" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-9" value="团长" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="733" y="101" width="40" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-10" value="" style="rounded=0;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="185" as="sourcePoint"/>
+            <mxPoint x="459" y="265" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-11" value="卖了2次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="218" width="52" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-12" value="" style="rounded=0;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461" y="185" as="sourcePoint"/>
+            <mxPoint x="751" y="270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-13" value="卖了1次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="551" y="227" width="52" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-14" value="" style="rounded=0;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="187" as="sourcePoint"/>
+            <mxPoint x="750" y="270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-15" value="卖了1次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="758" y="218" width="52" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-16" value="精华露 x 2&lt;br&gt;品牌 x 3&lt;br&gt;尾货 x 2&lt;br&gt;折扣 x 2&lt;br&gt;换季 x 1&lt;br&gt;化妆品 x 3&lt;br&gt;美白 x 1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="260" y="39" width="95" height="153" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-19" value="美白 x 1&lt;br&gt;有品质的 x 1&lt;br&gt;换季 x 1&lt;br&gt;折扣 x 1&lt;br&gt;化妆品 x 1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="855" y="39" width="95" height="153" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-20" value="C端用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="347" y="440" width="43" height="72" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-21" value="" style="rounded=0;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369" y="428" as="sourcePoint"/>
+            <mxPoint x="455" y="362" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-22" value="" style="rounded=0;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369" y="428" as="sourcePoint"/>
+            <mxPoint x="751" y="361" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-23" value="买了 2 次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="348" y="372" width="61" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-24" value="标签" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="243" y="440" width="61" height="79" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-25" value="C端用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="567" y="440" width="43" height="72" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-26" value="" style="rounded=0;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="586" y="429" as="sourcePoint"/>
+            <mxPoint x="750" y="371" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWyuvdy2MWBbCI0cYlTF-27" value="买了 2 次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="473" y="412" width="61" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
