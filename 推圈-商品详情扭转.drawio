@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T02:25:49.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="OHj4xgCK9eMqDOCbT8eU" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T03:14:13.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="prHDqPr9ejlvU6JF1XL_" version="12.9.14" type="github">
   <diagram id="AkDJZ3um_Ay8JXfdNZ_D" name="第 1 页">
     <mxGraphModel dx="946" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="bVwMEQZ3dnmLXhMu4i39-1" target="u8ie36PmuuRRRBq9Lzsn-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVwMEQZ3dnmLXhMu4i39-1" value="入口 直播 - 常规货架" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="bVwMEQZ3dnmLXhMu4i39-1" value="入口 直播活动-常规货架" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="344" y="240" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-2" value="C" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -44,20 +44,39 @@
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-15" target="u8ie36PmuuRRRBq9Lzsn-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u8ie36PmuuRRRBq9Lzsn-15" value="入口 常规货架详情" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="346" y="396" width="156" height="60" as="geometry" />
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-15" value="入口 常规货架" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="346" y="409" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-18" value="C" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="224" y="393" width="30" height="60" as="geometry" />
+          <mxGeometry x="224" y="406" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-19" value="" style="rounded=1;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;strokeColor=#808080;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="282" y="426" as="sourcePoint" />
-            <mxPoint x="333" y="426" as="targetPoint" />
+            <mxPoint x="282" y="439" as="sourcePoint" />
+            <mxPoint x="333" y="439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u8ie36PmuuRRRBq9Lzsn-20" value="商品被加入&lt;br&gt;爆品活动" style="rhombus;html=1;align=center;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="575" y="376" width="100" height="100" as="geometry" />
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-20" target="u8ie36PmuuRRRBq9Lzsn-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-26" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u8ie36PmuuRRRBq9Lzsn-25">
+          <mxGeometry x="-0.1529" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-30" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-20" target="u8ie36PmuuRRRBq9Lzsn-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-20" value="商品被当前用户&lt;br&gt;参与&lt;br&gt;爆品活动" style="rhombus;html=1;align=center;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="575" y="389" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-29" value="常规商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="761" y="409" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-31" value="爆品商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="915" y="409" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
