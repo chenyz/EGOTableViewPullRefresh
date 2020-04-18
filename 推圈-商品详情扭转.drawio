@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T04:06:53.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Gzqu6FBWdcBoaf3fp2sB" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T05:56:18.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="gVfaK3yFjo6UgzuNg5T2" version="12.9.14" type="github">
   <diagram id="AkDJZ3um_Ay8JXfdNZ_D" name="第 1 页">
     <mxGraphModel dx="1248" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -19,46 +19,43 @@
             <mxPoint x="331" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u8ie36PmuuRRRBq9Lzsn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-4" target="u8ie36PmuuRRRBq9Lzsn-9">
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-4" target="u8ie36PmuuRRRBq9Lzsn-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u8ie36PmuuRRRBq9Lzsn-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u8ie36PmuuRRRBq9Lzsn-10">
-          <mxGeometry x="0.0222" relative="1" as="geometry">
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-64" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u8ie36PmuuRRRBq9Lzsn-62">
+          <mxGeometry x="-0.308" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u8ie36PmuuRRRBq9Lzsn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-4" target="u8ie36PmuuRRRBq9Lzsn-9">
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-4" target="u8ie36PmuuRRRBq9Lzsn-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u8ie36PmuuRRRBq9Lzsn-14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u8ie36PmuuRRRBq9Lzsn-12">
-          <mxGeometry x="-0.1308" y="-2" relative="1" as="geometry">
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-65" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u8ie36PmuuRRRBq9Lzsn-63">
+          <mxGeometry x="-0.1356" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-4" value="商品被加入&lt;br&gt;爆品活动" style="rhombus;html=1;align=center;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="573" y="220" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="u8ie36PmuuRRRBq9Lzsn-9" value="直播 - 常规商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="763" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-15" target="u8ie36PmuuRRRBq9Lzsn-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-15" value="入口 常规商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="346" y="409" width="156" height="60" as="geometry" />
+          <mxGeometry x="346" y="419" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-18" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="224" y="406" width="30" height="60" as="geometry" />
+          <mxGeometry x="224" y="416" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-19" value="" style="rounded=1;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;strokeColor=#808080;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="282" y="439" as="sourcePoint" />
-            <mxPoint x="333" y="439" as="targetPoint" />
+            <mxPoint x="282" y="449" as="sourcePoint" />
+            <mxPoint x="333" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-20" target="u8ie36PmuuRRRBq9Lzsn-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="434" as="targetPoint" />
+            <mxPoint x="760" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-26" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u8ie36PmuuRRRBq9Lzsn-25">
@@ -70,27 +67,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-20" value="商品和当前用户&lt;br&gt;参与&lt;br&gt;爆品活动" style="rhombus;html=1;align=center;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="575" y="389" width="100" height="100" as="geometry" />
+          <mxGeometry x="575" y="399" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-29" value="常规商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="761" y="409" width="120" height="60" as="geometry" />
+          <mxGeometry x="761" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-31" value="爆品商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="915" y="409" width="120" height="60" as="geometry" />
+          <mxGeometry x="915" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-33" target="u8ie36PmuuRRRBq9Lzsn-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-33" value="入口 爆品活动-商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="344" y="573" width="156" height="60" as="geometry" />
+          <mxGeometry x="344" y="583" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-34" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="222" y="570" width="30" height="60" as="geometry" />
+          <mxGeometry x="222" y="580" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-35" value="" style="rounded=1;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;strokeColor=#808080;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="603" as="sourcePoint" />
-            <mxPoint x="331" y="603" as="targetPoint" />
+            <mxPoint x="280" y="613" as="sourcePoint" />
+            <mxPoint x="331" y="613" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-39" target="u8ie36PmuuRRRBq9Lzsn-42">
@@ -105,10 +102,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-39" value="商品和当前用户&lt;br&gt;参与&lt;br&gt;爆品活动" style="rhombus;html=1;align=center;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="573" y="553" width="100" height="100" as="geometry" />
+          <mxGeometry x="573" y="563" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-41" value="爆品商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="889" y="573" width="120" height="60" as="geometry" />
+          <mxGeometry x="889" y="583" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-42" target="u8ie36PmuuRRRBq9Lzsn-41">
           <mxGeometry relative="1" as="geometry" />
@@ -127,10 +124,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-42" value="爆品活动在活动时间范围" style="rhombus;html=1;align=center;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="731" y="553" width="100" height="100" as="geometry" />
+          <mxGeometry x="731" y="563" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-45" value="常规商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="573" width="120" height="60" as="geometry" />
+          <mxGeometry x="1056" y="583" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-52" target="u8ie36PmuuRRRBq9Lzsn-60">
           <mxGeometry relative="1" as="geometry">
@@ -151,6 +148,31 @@
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-60" value="团长商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="573" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-61" target="u8ie36PmuuRRRBq9Lzsn-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-69" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u8ie36PmuuRRRBq9Lzsn-67">
+          <mxGeometry x="-0.2343" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="u8ie36PmuuRRRBq9Lzsn-61" target="u8ie36PmuuRRRBq9Lzsn-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-71" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u8ie36PmuuRRRBq9Lzsn-70">
+          <mxGeometry x="-0.1462" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-61" value="直播活动在活动时间范围" style="rhombus;html=1;align=center;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="734" y="220" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-66" value="直播 - 常规商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="936" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u8ie36PmuuRRRBq9Lzsn-68" value="直播 - 常规商品&lt;br&gt;已经结束" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1129" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
