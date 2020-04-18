@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T03:59:36.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="eVLHc6mYWbSObVdY0ZVF" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T04:06:53.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Gzqu6FBWdcBoaf3fp2sB" version="12.9.14" type="github">
   <diagram id="AkDJZ3um_Ay8JXfdNZ_D" name="第 1 页">
     <mxGraphModel dx="1248" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u8ie36PmuuRRRBq9Lzsn-60" value="团长商品" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="573" y="78" width="120" height="60" as="geometry" />
+          <mxGeometry x="573" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
