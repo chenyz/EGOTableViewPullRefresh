@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T12:09:45.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="SV-3mIdJVH53UJ9I5LfA" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T12:24:26.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="fCGAuQPSQxUVghHveTZI" version="14.4.4" type="github">
   <diagram id="20opihmhMm-EBxE_RU-L" name="第 1 页">
     <mxGraphModel dx="101252" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
@@ -1036,8 +1036,84 @@
         <mxCell id="hC-yQwHcNALGtRgl69IV-349" value="&lt;div&gt;订单价格协商来源&lt;/div&gt;&lt;div&gt;OrderDeal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="842" y="3913" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-351" target="hC-yQwHcNALGtRgl69IV-353">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hC-yQwHcNALGtRgl69IV-351" value="&lt;div&gt;新增买家来源表&lt;/div&gt;&lt;div&gt;OrderBuyerModelType&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="4001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-353" target="hC-yQwHcNALGtRgl69IV-355">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-353" value="&lt;div&gt;如果是店铺商品&lt;/div&gt;&lt;div&gt;新增店铺商品来源表&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;sellerShopOrderChannel&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="4089" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-358" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-355" target="hC-yQwHcNALGtRgl69IV-357">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-355" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-style: italic&quot;&gt;saveOrUpdateTradeChannels&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-style: italic&quot;&gt;？&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="4177" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-357" target="hC-yQwHcNALGtRgl69IV-359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-357" value="更新订单索引表&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;OrderIndex&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="838" y="4265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-362" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-359" target="hC-yQwHcNALGtRgl69IV-361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-359" value="发送MQ" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="4353" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-361" target="hC-yQwHcNALGtRgl69IV-363">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="899" y="4521" />
+              <mxPoint x="1306" y="4521" />
+              <mxPoint x="1306" y="3595" />
+              <mxPoint x="1446" y="3595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-361" value="发送MTEE" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="4441" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-363" target="hC-yQwHcNALGtRgl69IV-365">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-363" value="记录日志" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="3615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-365" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterPaySuccBargainPriceLimitFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1384.5" y="3708" width="374" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-367" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterOrderSuccessJudgeFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="3740" width="374" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-368" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterOrderSuccessBlacklistJudgeFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1384.5" y="3772" width="374" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-369" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterOrderSuccessBlacklistJudgeFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1384.5" y="3804" width="374" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-370" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterOrderSuccessBlacklistJudgeFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="3836" width="374" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-371" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterOrderSuccessBlacklistJudgeFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="3868" width="374" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-372" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterOrderSuccessBlacklistJudgeFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="3900" width="374" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-373" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterOrderSuccessBlacklistJudgeFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1384.5" y="3931.5" width="374" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-374" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterOrderSuccessBlacklistJudgeFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="3963" width="374" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-375" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;AfterOrderSuccessBlacklistJudgeFilter&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1454.5" y="3842" width="374" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
