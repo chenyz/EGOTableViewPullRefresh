@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T09:27:46.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="Z2QdBGrJB7OpKLJdGVl2" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T09:48:39.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="9oTqLTGsFBmjSAsl8qv5" version="14.4.4" type="github">
   <diagram id="20opihmhMm-EBxE_RU-L" name="第 1 页">
     <mxGraphModel dx="101270" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
@@ -1348,7 +1348,7 @@
           <mxGeometry x="2568" y="418" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC-yQwHcNALGtRgl69IV-459" value="下架&amp;nbsp; 弹出" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2811" y="418" width="120" height="60" as="geometry" />
+          <mxGeometry x="2763" y="418" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC-yQwHcNALGtRgl69IV-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-462" target="hC-yQwHcNALGtRgl69IV-465">
           <mxGeometry relative="1" as="geometry" />
@@ -1368,8 +1368,58 @@
         <mxCell id="hC-yQwHcNALGtRgl69IV-467" value="分享 shareGoodid&lt;br&gt;写cookie&lt;br&gt;生成分享参数" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="2566" y="671" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-472" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-469" target="hC-yQwHcNALGtRgl69IV-471">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hC-yQwHcNALGtRgl69IV-469" value="&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 14px&quot;&gt;&amp;nbsp;imageInfoList&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&amp;nbsp;&amp;gt;&lt;br&gt;List&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;ImageRecord&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2568" y="755" width="120" height="60" as="geometry" />
+          <mxGeometry x="2567" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-474" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-471" target="hC-yQwHcNALGtRgl69IV-473">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-471" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-size: 10.5pt ; white-space: normal&quot;&gt;GoodsFeatures&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-size: 10.5pt ; white-space: normal&quot;&gt;获取商品标示&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2568" y="846" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-476" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-473" target="hC-yQwHcNALGtRgl69IV-475">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-473" value="发送一条浏览商品MQ" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2568" y="937" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-482" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-475" target="hC-yQwHcNALGtRgl69IV-477">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-475" value="是否可以议价" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2568" y="1023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-479" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-477" target="hC-yQwHcNALGtRgl69IV-478">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-484" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-477" target="hC-yQwHcNALGtRgl69IV-483">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-477" value="计算账号出售次数" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2568" y="1111" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-478" value="普通账号&lt;br&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;game_account_sell_log&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2745" y="1023" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-480" value="首充号" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2745" y="1093" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-481" value="代充号" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2745" y="1128" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-486" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hC-yQwHcNALGtRgl69IV-483" target="hC-yQwHcNALGtRgl69IV-485">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2995" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-483" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;GoodsCategoryRiskTip&lt;br&gt;风险提示&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2568" y="1203" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hC-yQwHcNALGtRgl69IV-485" value="生成分享参数" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="3058" y="145" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
